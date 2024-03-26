@@ -1,4 +1,4 @@
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Ftech-background&psig=AOvVaw2Ezqh5lPLD-bLULiRXS_CP&ust=1711499519974000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKibx9rWkIUDFQAAAAAdAAAAABAE)
+![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/istockphoto-1001279256-612x612.jpg)
 <h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
