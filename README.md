@@ -1,4 +1,4 @@
-!(https://github.com/pragati-afk/pragati-afk/blob/main/github-header-image%20(1).png).
+![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
