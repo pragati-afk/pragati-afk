@@ -68,9 +68,10 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
+
  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-afk&theme=radical&hide_border=false" /></p>
+ </p>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
 </p>
