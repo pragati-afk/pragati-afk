@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/Pragati-afk%20(2).png)
 <h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
-
+<hr/>
 <table style="width: 100%; border-collapse: collapse; padding: 10px; border: 1px solid #000;">
      <td style="width: 100%; text-align: center; border: 40px solid transparent; vertical-align: top;">
 <h2 align="center">💫 About Me:</h2>
@@ -10,7 +10,7 @@
 </table>
 
 
-
+<hr/>
 
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
@@ -24,7 +24,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
  </td>
 </table>
-
+<hr/>
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <div align="center">
@@ -74,7 +74,7 @@
 </div>
            </td>
 </table>
-
+<hr/>
 
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
@@ -91,7 +91,7 @@
 
 
 
-
+<hr/>
 
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
@@ -103,7 +103,7 @@
 <br/>
            </td>
 </table>
-
+<hr/>
 
 <table style="border-collapse: collapse;">
   <tr>
@@ -123,7 +123,7 @@
 
 
 
-<hr/>
+
 
 
 
