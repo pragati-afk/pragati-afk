@@ -94,7 +94,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</div>
+</div>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br/>
 <br/>
            </td>
