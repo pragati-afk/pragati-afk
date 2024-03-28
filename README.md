@@ -84,16 +84,19 @@
 <br/>
 <hr/>
 
-<div style="display: flex;">
-    <div style="flex: 1; text-align: left;">
-        <h3>✍️ Random Dev Quote</h3>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-    </div>
-    <div style="flex: 1; text-align: right;">
-        <h3>🔝 Top Contributed Repo</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    </td>
+  </tr>
+</table>
+
 
 
 
