@@ -1,8 +1,9 @@
 ![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/Pragati-afk%20(2).png)
+
+<h1 align="center">Hi 👋, I'm Pragati </h1>
 <div align="right">
    <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="center">
 </div>
-<h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
 
