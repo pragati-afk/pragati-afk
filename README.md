@@ -1,5 +1,8 @@
 ![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/Pragati-afk%20(2).png)
-<h1 align="center">Hi 👋, I'm Pragati </h1> <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="center"
+<div align="right">
+   <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="center">
+</div>
+<h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
 
@@ -15,7 +18,7 @@
       🔭 I’m currently working on V.R Police Training Simulation<br><br>
       🌱 I’m currently learning A.R/V.R<br><br>
       👨‍💻 All of my projects are available at
-      [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>
+      [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbs &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>
       💬 Ask me about Unity, Blender, C# <br><br>
       📫 How to reach me: [pragatiupadhyayy@gmail.com](mailto:pragatiupadhyayy@gmail.com)
       <br><br>
