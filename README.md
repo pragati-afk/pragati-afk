@@ -84,13 +84,13 @@
 <br/>
 <hr/>
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; text-align: center;">
+    <td style="width: 50%; text-align: center; border: 1px solid transparent; vertical-align: top;">
       <h3>✍️ Random Dev Quote</h3>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
     </td>
-    <td style="width: 50%; text-align: center;">
+    <td style="width: 50%; text-align: center; border: 1px solid transparent; vertical-align: top;">
       <h3>🔝 Top Contributed Repo</h3>
       <img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
     </td>
