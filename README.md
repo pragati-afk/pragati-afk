@@ -1,13 +1,8 @@
 ![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/Pragati-afk%20(2).png)
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="width: 50%; text-align: center;">
-    <h1>Hi 👋, I'm Pragati</h1>
-    <h3>A passionate Developer from India</h3>
-  </div>
-  <div style="width: 50%; text-align: center;">
-    <img src="https://octodex.github.com/images/spidertocat.png" width="200">
-  </div>
-</div>
+<h1 align="center">Hi 👋, I'm Pragati </h1>
+<h3 align="center">A passionate Developer from India</h3>
+
+
 
 <hr/>
 <table style="width: 100%; border-collapse: collapse; padding: 10px; border: 1px solid #000;">
