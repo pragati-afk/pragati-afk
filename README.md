@@ -77,7 +77,7 @@
 
 
 <table>
-  <td style="width: 100%; text-align: center; border: 1px solid black; vertical-align: top;">
+  <td style="width: 100%; text-align: center; border: 5px solid black; vertical-align: top;">
     <div align="center">
       <h2 align="center">📊 GitHub Stats:</h2>
       <p>
