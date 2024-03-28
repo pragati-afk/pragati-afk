@@ -15,7 +15,7 @@
       🔭 I’m currently working on V.R Police Training Simulation<br><br>
       🌱 I’m currently learning A.R/V.R<br><br>
       👨‍💻 All of my projects are available at <br>
-      [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/)  <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="center">
+      [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/)  <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="center"><br>
       💬 Ask me about Unity, Blender, C# <br><br>
       📫 How to reach me: [pragatiupadhyayy@gmail.com](mailto:pragatiupadhyayy@gmail.com)
       <br><br>
