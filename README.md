@@ -12,7 +12,8 @@
 
 <hr/>
 
-
+<table>
+     <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 
 <div align="center">
     <h2>🌐 Socials:</h2>
@@ -21,8 +22,11 @@
     </a>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
-
+ </td>
+</table>
 <hr/>
+<table>
+     <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <div align="center">
     <h2 align="center">💻 Tech Stack:</h2>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -68,9 +72,12 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 </div>
+           </td>
+</table>
 <hr/>
 
-
+<table>
+     <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <div align="center">
     <h2 align="center">📊 GitHub Stats:</h2>
 <p>
@@ -79,15 +86,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
 </p>
 </div>
-
+ </td>
+</table>
 <hr/> 
-
+<table>
+     <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
 </div>
 <br/>
 <br/>
+           </td>
+</table>
 <hr/>
 
 <table style="border-collapse: collapse;">
