@@ -4,13 +4,12 @@
 
 
 
-<h2 align="center"># 💫 About Me:</h2>
+<h1 align="center"># 💫 About Me:</h1>
 🔭 I’m currently working on V.R Police Training Simulation<br><br>🌱 I’m currently learning A.R/V.R<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/<br><br>💬 Ask me about Unity, Blender, C#<br><br>📫 How to reach me pragatiupadhyayy@gmail.com<br><br>
 
 
-<h3 align="center">## 🌐 Socials:</h3>
+<h2 align="center">## 🌐 Socials:</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-upadhyay-a663b4290) 
-
 <div align="center">
     <h2># 💻 Tech Stack:</h2>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -45,9 +44,21 @@
     <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer">
-    <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the
+    <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
+    <img src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" alt="Invision">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white" alt="Uber">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+</div>
 
-<h2 align="center"># 📊 GitHub Stats:</h2>
+    
+
+<h1 align="center"># 📊 GitHub Stats:</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
@@ -55,7 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
 </p>
 
-<h3 align="center">## 🏆 GitHub Trophies</h3>
+<h1 align="center">## 🏆 GitHub Trophies</h1>
 ![](https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
