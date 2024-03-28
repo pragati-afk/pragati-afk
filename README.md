@@ -76,18 +76,21 @@
 </table>
 
 
-<table>
-     <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
-<div align="center">
-    <h2 align="center">📊 GitHub Stats:</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-afk&theme=radical&hide_border=false" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br/></p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
-</p>
-</div>
- </td>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <td style="width: 100%; text-align: center; border: none; vertical-align: top;">
+    <div align="center" style="border: 1px solid transparent;">
+      <h2 align="center">📊 GitHub Stats:</h2>
+      <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-afk&theme=radical&hide_border=false" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
+      </p>
+    </div>
+  </td>
 </table>
+
 
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
