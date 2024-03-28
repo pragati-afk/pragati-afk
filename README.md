@@ -2,21 +2,10 @@
 <h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-
-
-<table style="width: 100vw; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: center; border: none; vertical-align: top;">
-      <h2 align="center">💫 About Me:</h2>
-      <p>🔭 I’m currently working on V.R Police Training Simulation                                                                                          &nbsp</p>
-      <p>🌱 I’m currently learning A.R/V.R</p>
-      <p>👨‍💻 All of my projects are available at <a href="https://hack-black-pearl.github.io/Portfolio/">https://hack-black-pearl.github.io/Portfolio/</a>                                                      </p>
-      <p>💬 Ask me about Unity, Blender, C#</p>
-      <p>📫 How to reach me pragatiupadhyayy@gmail.com</p>
-    </td>
-  </tr>
+<table>
+<h2 align="center">💫 About Me:</h2>
+🔭 I’m currently working on V.R Police Training Simulation<br><br>🌱 I’m currently learning A.R/V.R<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/<br><br>💬 Ask me about Unity, Blender, C#<br><br>📫 How to reach me pragatiupadhyayy@gmail.com<br><br>
 </table>
-
 
 
 
