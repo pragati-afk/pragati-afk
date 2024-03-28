@@ -14,10 +14,11 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
+
 <div align="right">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=pragati-afk&icon=0&color=4" alt="Visit Count">
-    </a>
+    ![Profile Views](https://komarev.com/ghpvc/?username=pragati-afk)
+</div>
+
 </div>
 <div>
     <h1>💻 Tech Stack:</h1>
@@ -69,9 +70,11 @@
 
 <h1 align="center">📊 GitHub Stats:</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-afk&theme=radical&hide_border=false" /><br/><br/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/></p>
+  <p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-afk&theme=radical&hide_border=false" /><br/><br/></p>
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
 </p>
 
