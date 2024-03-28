@@ -5,7 +5,9 @@
 
 
 <hr/>
+<div align="center">
  <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="center">
+</div>
 <table style="width: 100%; border-collapse: collapse; padding: 10px; border: 1px solid #000;">
   <tr>
     <td style="text-align: center;">
