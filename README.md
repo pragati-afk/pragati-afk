@@ -19,7 +19,7 @@
         <img src="https://visitcount.itsvg.in/api?id=pragati-afk&icon=0&color=4" alt="Visit Count">
     </a>
 </div>
-
+<div>
     <h1>💻 Tech Stack:</h1>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
