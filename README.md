@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Developer from India</h3>
 
 
-<table style="width: 100%; border-collapse: collapse;"> 
+<table style="width: 100vw; border-collapse: collapse;">
+  <tr>
     <td style="text-align: center; border: none; vertical-align: top;">
       <h2 align="center">💫 About Me:</h2>
       <p>🔭 I’m currently working on V.R Police Training Simulation</p>
@@ -12,7 +13,9 @@
       <p>💬 Ask me about Unity, Blender, C#</p>
       <p>📫 How to reach me pragatiupadhyayy@gmail.com</p>
     </td>
+  </tr>
 </table>
+
 
 
 
