@@ -4,19 +4,19 @@
 <hr/>
 <table style="width: 100%; border-collapse: collapse; padding: 10px; border: 1px solid #000;">
   <tr>
-    <td style="width: 70%; text-align: center; vertical-align: top;">
+    <td style="text-align: center;">
       <h2 align="center">💫 About Me:</h2>
       🔭 I’m currently working on V.R Police Training Simulation<br><br>
       🌱 I’m currently learning A.R/V.R<br><br>
       👨‍💻 All of my projects are available at [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/)<br><br>
       💬 Ask me about Unity, Blender, C#<br><br>
       📫 How to reach me: [pragatiupadhyayy@gmail.com](mailto:pragatiupadhyayy@gmail.com)
-    </td>
-    <td style="width: 30%; text-align: center;">
+      <br><br>
       <img src="https://octodex.github.com/images/spidertocat.png" width="200" align="right">
     </td>
   </tr>
 </table>
+
 
 
 <hr/>
