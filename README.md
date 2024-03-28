@@ -3,7 +3,8 @@
 <h3 align="center">A passionate Developer from India</h3>
 
 
-<table style="width: 100vw; border-collapse: collapse;">
+
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="text-align: center; border: none; vertical-align: top;">
       <h2 align="center">💫 About Me:</h2>
@@ -15,6 +16,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
