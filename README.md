@@ -8,7 +8,7 @@
   <tr>
     <td style="text-align: center; border: none; vertical-align: top;">
       <h2 align="center">💫 About Me:</h2>
-      <p>🔭 I’m currently working on V.R Police Training Simulation</p>
+      <p>🔭 I’m currently working on V.R Police Training Simulation                                                                                                                                           .</p>
       <p>🌱 I’m currently learning A.R/V.R</p>
       <p>👨‍💻 All of my projects are available at <a href="https://hack-black-pearl.github.io/Portfolio/">https://hack-black-pearl.github.io/Portfolio/</a>                                                      </p>
       <p>💬 Ask me about Unity, Blender, C#</p>
