@@ -15,7 +15,7 @@
     </a>
 </div>
 <div align="center">
-    ![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/pragati-afk)
+    ![Profile Views](https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat)
 </div>
 
 <div>
