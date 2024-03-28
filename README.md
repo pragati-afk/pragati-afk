@@ -1,16 +1,16 @@
 ![Alt text](https://github.com/pragati-afk/pragati-afk/blob/main/Pragati-afk%20(2).png)
 <h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
-<hr/>
+
 <table>
-     <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
+     <td style="width: 100%; text-align: center; border: 4px solid transparent; vertical-align: top;">
 <h2 align="center">💫 About Me:</h2>
 🔭 I’m currently working on V.R Police Training Simulation&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>🌱 I’m currently learning A.R/V.R<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<br><br>💬 Ask me about Unity, Blender, C#<br><br>📫 How to reach me pragatiupadhyayy@gmail.com<br><br>
         </td>
 </table>
 
 
-<hr/>
+
 
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
@@ -24,7 +24,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
  </td>
 </table>
-<hr/>
+
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <div align="center">
@@ -74,7 +74,7 @@
 </div>
            </td>
 </table>
-<hr/>
+
 
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
@@ -88,7 +88,7 @@
 </div>
  </td>
 </table>
-<hr/> 
+
 <table>
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <h2 align="center">🏆 GitHub Trophies</h2>
@@ -99,7 +99,7 @@
 <br/>
            </td>
 </table>
-<hr/>
+
 
 <table style="border-collapse: collapse;">
   <tr>
