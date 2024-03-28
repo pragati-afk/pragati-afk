@@ -8,7 +8,7 @@
 </table>
 
 
-
+<hr/>
 
 
 
@@ -20,7 +20,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
 
-
+<hr/>
 <div align="center">
     <h2 align="center">💻 Tech Stack:</h2>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -66,8 +66,7 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
 </div>
-
-    
+<hr/>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
@@ -78,7 +77,7 @@
 </p>
 </div>
 
- 
+<hr/> 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
@@ -87,7 +86,7 @@
 <br/>
 <br/>
 <hr/>
-
+<hr/>
 <table style="border-collapse: collapse;">
   <tr>
     <td style="width: 50%; text-align: center; border: 1px solid transparent; vertical-align: top;">
