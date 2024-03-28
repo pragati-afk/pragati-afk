@@ -11,6 +11,11 @@
 <h2 align="center">🌐 Socials:</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pragati-upadhyay-a663b4290) 
 <div align="center">
+    <div align="right">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=pragati-afk&icon=0&color=4" alt="Visit Count">
+    </a>
+</div>
     <h1>💻 Tech Stack:</h1>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -78,5 +83,5 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pragati-afk&icon=0&color=4)](https://visitcount.itsvg.in) 
+
 
