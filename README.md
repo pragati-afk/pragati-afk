@@ -86,7 +86,7 @@
 <br/>
 <br/>
 <hr/>
-<hr/>
+
 <table style="border-collapse: collapse;">
   <tr>
     <td style="width: 50%; text-align: center; border: 1px solid transparent; vertical-align: top;">
@@ -105,7 +105,7 @@
 
 
 
-
+<hr/>
 
 
 
