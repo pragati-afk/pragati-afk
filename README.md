@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
 
 
 <div>
@@ -81,7 +81,10 @@
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
-![](https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
+</div>
+
 
 <div align="center">
     <h3>✍️ Random Dev Quote</h3>
