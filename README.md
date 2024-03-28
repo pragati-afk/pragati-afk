@@ -14,8 +14,10 @@
       <p>💬 Ask me about Unity, Blender, C#</p>
       <p>📫 How to reach me pragatiupadhyayy@gmail.com</p>
     </td>
+    <td style="width: 50%;"></td>
   </tr>
 </table>
+
 
 
 
