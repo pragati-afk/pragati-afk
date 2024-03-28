@@ -93,7 +93,7 @@
      <td style="width: 100%; text-align: center; border: 1px solid transparent; vertical-align: top;">
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </div>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br/>
 <br/>
