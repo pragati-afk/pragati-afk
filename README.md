@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pragati-afk&label=Profile%20views&color=0e75b6&style=flat" alt="pragati-afk" /> </p>
 
 
 <div>
