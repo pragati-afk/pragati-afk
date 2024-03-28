@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">💫 About Me:</h1>
+<h2 align="center">💫 About Me:</h2>
 🔭 I’m currently working on V.R Police Training Simulation<br><br>🌱 I’m currently learning A.R/V.R<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/<br><br>💬 Ask me about Unity, Blender, C#<br><br>📫 How to reach me pragatiupadhyayy@gmail.com<br><br>
 
 
@@ -18,7 +18,7 @@
 
 
 <div>
-    <h1>💻 Tech Stack:</h1>
+    <h2>💻 Tech Stack:</h2>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -65,7 +65,7 @@
 
     
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pragati-afk&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=pragati-afk&theme=radical&hide_border=false" /><br/></p>
@@ -75,10 +75,6 @@
 
 
  
- </p>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragati-afk" />
-</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
