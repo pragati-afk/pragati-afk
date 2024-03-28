@@ -83,9 +83,17 @@
 <br/>
 <br/>
 <hr/>
-| **✍️ Random Dev Quote** | **🔝 Top Contributed Repo** |
-|:-----------------------:|:---------------------------:|
-| <h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></h3> | <h3 align="center"><img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"></h3> |
+
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <h3 align="left">✍️ Random Dev Quote</h3>
+        <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></p>
+    </div>
+    <div style="flex: 1;">
+        <h3 align="right">🔝 Top Contributed Repo</h3>
+        <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"></p>
+    </div>
+</div>
 
 
 
