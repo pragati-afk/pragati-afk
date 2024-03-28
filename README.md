@@ -81,15 +81,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=pragati-afk&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
 </div>
 
-<div>
-    <div align="left" width="50">
-        <h3>✍️ Random Dev Quote</h3>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-        <div align="right" width="50">
-        <h3>🔝 Top Contributed Repo</h3>
-        <img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<div style="display: flex;">
+    <div style="flex: 1; border-right: 1px solid transparent; padding-right: 10px;">
+        <h3 style="text-align: center;">✍️ Random Dev Quote</h3>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="display: block; margin: 0 auto;">
+    </div>
+    <div style="flex: 1; padding-left: 10px;">
+        <h3 style="text-align: center;">🔝 Top Contributed Repo</h3>
+        <img src="https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" style="display: block; margin: 0 auto;">
     </div>
 </div>
+
 
 ---
 
