@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Pragati </h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-<p align="center">
 
-# 💫 About Me:
+
+<p align="center"># 💫 About Me:</p>
 🔭 I’m currently working on V.R Police Training Simulation<br><br>🌱 I’m currently learning A.R/V.R<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/<br><br>💬 Ask me about Unity, Blender, C#<br><br>📫 How to reach me pragatiupadhyayy@gmail.com<br><br>
 
 
@@ -31,5 +31,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=pragati-afk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pragati-afk&icon=0&color=4)](https://visitcount.itsvg.in) </p>
+[![](https://visitcount.itsvg.in/api?id=pragati-afk&icon=0&color=4)](https://visitcount.itsvg.in) 
 
